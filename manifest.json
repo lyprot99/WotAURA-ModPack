@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "client_version": "2.1.2",
+  "client_version": "2.1.3",
   "game_version": "1.45.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.1.2/WotAURA.exe",
-  "sha256": "81C6FF3668E47EC6E0B363E33BC16ABA775DF592628F27903665496F1A460A13",
-  "size": 134366720,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.1.3/WotAURA.exe",
+  "sha256": "3C14ADCD5601F4DE9F41E163C34FC8BD30F53D262A5A2D8473D3C6BA26917E80",
+  "size": 134330368,
   "mandatory": true,
   "changelog": [
-    "Обновление XVM.",
-    "Обновление Премиум модов"
+    "Обновление XVM",
+    "Исправление ошибок с озвучкой (XVM)"
   ]
 }
