@@ -3,11 +3,8 @@
   "client_version": "2.1.1",
   "game_version": "1.45.0.0",
   "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.1.1/WotAURA.exe",
-  "sha256": "7EF9033F81D0BA26128146FEE09828BC20AA8D628081C5D48084220E028A9B25",
-  "size": 134330368,
+  "sha256": "EF245B9D1FF5E5EB62179E123B1CBA5A90F641053BAA53BE6DB672DC904A6AF2",
+  "size": 134329856,
   "mandatory": true,
-  "changelog": [
-    "Обновление Модпака",
-    "Обновление модов"
-  ]
+  "changelog": []
 }
