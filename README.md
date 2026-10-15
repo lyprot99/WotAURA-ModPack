@@ -6,9 +6,11 @@
 
 ## Скачать
 
-**[Скачать WotAURA 2.3.5](https://github.com/lyprot99/WotAURA-ModPack/releases)**
+**[Скачать WotAURA 2.3.6](https://github.com/lyprot99/WotAURA-ModPack/releases)**
 
 Программа распространяется одним файлом — `WotAURA.exe`.
+
+Поддерживаются Windows 10 и Windows 11 (64-битные).
 
 ## Как установить
 
@@ -26,4 +28,4 @@
 
 Сообщить об ошибке или предложить новый мод можно через раздел «Поддержка» в WotAURA либо через официальные сообщества [ВКонтакте](https://vk.ru/wotauramodpack) и [Telegram](https://t.me/WotAURAModPack).
 
-Текущая версия: **2.3.5**.
+Текущая версия: **2.3.6**.
