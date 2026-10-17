@@ -6,7 +6,7 @@
 
 ## Скачать
 
-**[Скачать WotAURA 2.3.7](https://github.com/lyprot99/WotAURA-ModPack/releases)**
+**[Скачать WotAURA 2.3.8](https://github.com/lyprot99/WotAURA-ModPack/releases)**
 
 Программа распространяется одним файлом — `WotAURA.exe`.
 
@@ -28,4 +28,4 @@
 
 Сообщить об ошибке или предложить новый мод можно через раздел «Поддержка» в WotAURA либо через официальные сообщества [ВКонтакте](https://vk.ru/wotauramodpack) и [Telegram](https://t.me/WotAURAModPack).
 
-Текущая версия: **2.3.7**.
+Текущая версия: **2.3.8**.
