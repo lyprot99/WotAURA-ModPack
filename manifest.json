@@ -1,13 +1,15 @@
 {
   "schema_version": 1,
-  "client_version": "2.3.6",
+  "client_version": "2.3.7",
   "game_version": "1.45.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.3.6/WotAURA.exe",
-  "sha256": "7B02F0873E4512B53A4FC86E693B00921739BC0F47983220320E39AD41065CE4",
-  "size": 136912896,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.3.7/WotAURA.exe",
+  "sha256": "EBDA6999EB943C2880F0445A42B553841E590F1FE72ABDC30D6669CB431101FC",
+  "size": 136963072,
   "mandatory": true,
   "changelog": [
-    "Улучшена стабильность установки.",
-    "Оптимизирована работа приложения."
+    "Новый раздел поддержки: карточки обращений и подробная история ответов.",
+    "Добавлены фильтры и отметки непрочитанных ответов.",
+    "Уведомления о новых ответах и статусах обращений при запуске приложения.",
+    "Улучшено сохранение ответов и удобство отправки обращений."
   ]
 }
