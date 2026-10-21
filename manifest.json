@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "client_version": "2.4.7",
+  "game_version": "1.45.0.0",
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.4.7/WotAURA.exe",
+  "sha256": "33241169E3948565E277CD078E68FC33F07CE4D05147E4D39907006D4586E3C3",
+  "size": 182880256,
+  "mandatory": true,
+  "changelog": [
+    "Ускорена установка модов.\nДоработана проверка Premium-доступа.\nМинимизированы ошибки сети и установки.\nДобавлены звуковые уведомления в модпаке."
+  ]
+}
