@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.4.9",
+  "client_version": "2.5.1",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.4.9/WotAURA.exe",
-  "sha256": "BF9C1ABFA60349A2D534122582436700FB4B626872CF70370FBD88E5DEACC0F7",
-  "size": 182833152,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.1/WotAURA.exe",
+  "sha256": "F26EA28385A49B07FAF4C7186D3762E6FE5388A5335246AF272A4794CE245140",
+  "size": 182978560,
   "mandatory": true,
   "changelog": [
-    "Улучшена загрузка модов и обработка сетевых ошибок.\nДобавлено продолжение установки в режиме «Чистая» после ручной очистки заблокированной папки.\nУточнены сообщения об ошибках и подсказки."
+    "Обновлены Premium-моды для LESTA и WG.\nДоработаны камера менеджера ангаров и выбор количества отметок.\nНастройки WotAURA сохраняются при чистой установке."
   ]
 }
