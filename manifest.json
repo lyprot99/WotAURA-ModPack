@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.5.2",
+  "client_version": "2.5.3",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.2/WotAURA.exe",
-  "sha256": "7DA3D81A075F0330F44C44FEF7153314F4ACCC0CDB2940BFBCD268718748786B",
-  "size": 182946304,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.3/WotAURA.exe",
+  "sha256": "128AC156E309C12B917EF5F0F2410FF2A05E63C067617E0C3B56BC020ACAC432",
+  "size": 182872576,
   "mandatory": true,
   "changelog": [
-    "Добавлена бета менеджера стилей WotAURA для LESTA с 2D/3D-стилями LESTA и WG для совместимой техники.\nДоработаны менеджер ангаров, отображение отметок и таймера перезарядки.\nИсправлено открытие результатов боя WG при замене ангара.\nУлучшена установка дополнительных ресурсов и исправлен размер кнопки снятия выбора модов."
+    "Мелкие правки установщика. Оптимизация модпака."
   ]
 }
