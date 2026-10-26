@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.5.4",
+  "client_version": "2.5.5",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.4/WotAURA.exe",
-  "sha256": "5C6E626033FF8248DD23648CA573FE2965C69F12040DEBA8EEFEE17D897DE1F5",
-  "size": 187237888,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.5/WotAURA.exe",
+  "sha256": "E2FABCBB56FBBD7803A3A0F2F3FA0F0A8FFDAA2E8B98004A43A0A98D598D19BE",
+  "size": 187280896,
   "mandatory": true,
   "changelog": [
-    "Обновлён интерфейс модпака. Улучшено определение LESTA/WG и сохранение выбора модов. Добавлена раздельная очистка настроек с резервной копией. Исправлены ошибки установки звуков WG и зависимостей."
+    "Исправлено создание обязательных папок ресурсов при установке минимального набора модов."
   ]
 }
