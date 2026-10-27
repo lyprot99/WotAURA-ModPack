@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.5.5",
+  "client_version": "2.5.6",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.5/WotAURA.exe",
-  "sha256": "E2FABCBB56FBBD7803A3A0F2F3FA0F0A8FFDAA2E8B98004A43A0A98D598D19BE",
-  "size": 187280896,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.6/WotAURA.exe",
+  "sha256": "59FADDF8E2D6FFC5BD6C03063F21A6E319381FA6C2F6D2EC4107ADB024DDB0F0",
+  "size": 187308032,
   "mandatory": true,
   "changelog": [
-    "Исправлено создание обязательных папок ресурсов при установке минимального набора модов."
+    "Упрощена подготовка установки: убрана дублирующая нижняя панель на странице установки и уточнены названия кнопок."
   ]
 }
