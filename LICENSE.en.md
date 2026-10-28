@@ -1,6 +1,6 @@
 # WotAURA ModPack License and User Agreement
 
-Version dated 21 October 2026
+Version dated 28 October 2026
 
 © LYProt, 2015–2026. Rights to original WotAURA components are reserved.
 
@@ -76,7 +76,16 @@ By clicking the acceptance button in the application, or by starting to use it a
 
 4.16. The paid Premium access period is determined by the selected Boosty plan; the technical key validity period is displayed by the bot and application. The technical key period may differ but does not reduce the paid period. If the key expires before the confirmed end of the paid period, the project extends it or issues a replacement for the remaining period without additional payment. In case of a group membership check error, status mismatch or another technical inability to obtain agreed access, contact the channels in clause 4.10; the project verifies payment and restores access. Confirmed actual unavailability of paid features for reasons attributable to the project is compensated by a corresponding access extension without additional payment. Key issuance alone does not confirm delivery of all paid features.
 
-4.17. An ordinary paid key is checked against its bound Telegram ID and membership in the private WotAURA Premium Telegram group. Confirmed absence from the group temporarily restricts Premium access until the User returns. The key is not revoked: its original expiry date and device binding are preserved, and its validity period does not restart. Return using the Boosty invitation and repeat the check in the modpack. No repeat payment is required for an already paid period. If the invitation is unavailable or the check encounters a technical error, contact support. A technical check failure is not confirmed departure and does not revoke the key. Private group membership checks do not apply to prize and gift keys.
+4.17. Ordinary paid Premium access is checked against the bound Telegram ID, key validity, device binding and confirmed membership in the private WotAURA Premium Telegram group. The check applies during activation in the modpack and automatic access verification by WotAURA’s own Premium components in the game. Confirmed absence from the group temporarily restricts Premium access until the User returns. The key is not revoked: its original expiry date and device binding are preserved, and its validity period does not restart. Return using the Boosty invitation and repeat the check in the modpack. No repeat payment is required for an already paid period. If the invitation is unavailable or the check encounters a technical error, contact support. A technical check failure is not confirmed departure and does not revoke the key. Private group membership checks do not apply to prize and gift keys.
+
+4.18. Operation of installed Premium components.
+WotAURA’s own Premium modifications in LESTA and WG require valid access confirmed by WotAURA’s shared verification system. Previously downloaded or installed files alone do not ensure that these modifications will work after access expires or is restricted. An automatic server check is performed when the game client starts; an internet connection is required for this check. Limited retries may be made after a temporary failure. The User does not need to enter the key manually at every game startup if a valid activation is already saved on the device. These verification requirements for WotAURA’s own Premium components do not change the licenses of third-party modifications.
+
+4.19. Validity period and the current game session.
+After a successful check, the system monitors the confirmed access expiry without continuously polling the server. If access expires in the garage, WotAURA’s own Premium modifications are disabled. If access expires during a battle, disabling is deferred until the User returns to the garage. Changes in group membership or server-side status after a successful check may not be detected immediately: current information is checked at the next game client startup. This does not extend the paid period or the key validity period.
+
+4.20. Automatic verification errors.
+If access cannot be confirmed at game startup because of a network error, server unavailability or a technical failure, WotAURA’s own Premium modifications remain inactive until a successful check. The User receives a message in the game’s notification center. Such a failure alone does not mean that the key has been revoked, that departure from the group has been confirmed or that another payment is required. Restoration of paid access and extensions for confirmed unavailability attributable to the project are governed by clause 4.16.
 
 ## 5 Installation and User responsibilities
 
@@ -108,7 +117,7 @@ By clicking the acceptance button in the application, or by starting to use it a
 
 ## 8 Technical data
 
-8.1. WotAURA may process a Telegram ID and display name, key and validity period, game versions and support requests. Sending connection diagnostics may additionally transmit service availability check results. Giveaway participation involves processing the entry, necessary subscription check results, prize details and claiming information.
+8.1. WotAURA may process a Telegram ID and display name, key and validity period, game versions and support requests. Sending connection diagnostics may additionally transmit service availability check results. Giveaway participation involves processing the entry, necessary subscription check results, prize details and claiming information. During automatic access verification, the game client transmits the device identifier, selected game and technical activation data. These are used to verify access and its binding to the device. The game account password and payment details are not required for this check.
 
 8.2. This data is used for access checks, mod delivery, updates, support, diagnostics, abuse prevention and assessment of service stability. The actual data processed depends on the features used.
 
