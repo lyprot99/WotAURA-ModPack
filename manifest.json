@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.5.7",
+  "client_version": "2.5.8",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.7/WotAURA.exe",
-  "sha256": "B84C460D7638E3B20407734765820D509CF3BDBBC2F9342C24638127E177B5A0",
-  "size": 187403776,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.8/WotAURA.exe",
+  "sha256": "4A5C5DBBD19D7A7E3B72411FCA43EA22B3838C79C2678AFB6A2101178EA3A961",
+  "size": 187444224,
   "mandatory": true,
   "changelog": [
-    "Улучшено восстановление соединения и продолжение установки после сетевых сбоев. Уточнены сообщения и условия отправки запроса в поддержку. Обновлены лицензионное соглашение и условия подписки."
+    "Добавлен Детайлер WotAURA для LESTA и WG. Шесть независимых параметров позволяют отключать дым и отдельные боевые эффекты. Выбор доступен через шестерёнку карточки мода."
   ]
 }
