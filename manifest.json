@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.5.9",
+  "client_version": "2.6.0",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.5.9/WotAURA.exe",
-  "sha256": "4E8F9F8DD752BA0F6E3955E84DA6CA8274DD2F04D9097696BE4F25050B88F113",
-  "size": 187441664,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.0/WotAURA.exe",
+  "sha256": "44E59D458DE5E418BE7E75920E84F8CA43387E6107F0DFF23FDBC764CA124F46",
+  "size": 187493888,
   "mandatory": true,
   "changelog": [
-    "Исправлена совместимость Детайлера с ранее установленным твикером"
+    "Улучшена загрузка каталога и модов при медленном и нестабильном соединении. Добавлены восстановление загрузки частей каталога и просмотр сохранённого списка модов. Уточнены сообщения о подключении."
   ]
 }
