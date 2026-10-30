@@ -6,7 +6,7 @@
 
 ## Скачать
 
-**[Скачать WotAURA 2.6.0](https://github.com/lyprot99/WotAURA-ModPack/releases/latest)** · [Что нового — RU](news/2.6.0.ru.md) · [Release news — EN](news/2.6.0.en.md)
+**[Скачать WotAURA 2.6.1](https://github.com/lyprot99/WotAURA-ModPack/releases/latest)** · [Что нового — RU](news/2.6.1.ru.md) · [Release news — EN](news/2.6.1.en.md)
 
 Программа распространяется одним файлом — `WotAURA.exe`.
 
@@ -57,4 +57,4 @@ Before subscribing on [Boosty](https://boosty.to/wotauramodpack), review the pla
 
 Installation failures automatically send a bounded technical report: installation stage, selected mods, error details and recovery outcome. License keys and access credentials are excluded. An error report does not count as a successful installation.
 
-Текущая версия: **2.6.0**.
+Текущая версия: **2.6.1**.
