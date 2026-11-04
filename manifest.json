@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.6.4",
+  "client_version": "2.6.5",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.4/WotAURA.exe",
-  "sha256": "B2754DB4BF32D2D998FE6003FA11A8523B58A8EA76FFB8EB3AF4384BA4AECA1A",
-  "size": 187599872,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.5/WotAURA.exe",
+  "sha256": "566F38ECE9F5212F6145E55676084B3A5D029817C3F0F3221ADAF28BDC5AEB0C",
+  "size": 187652608,
   "mandatory": true,
   "changelog": [
-    "Улучшены подключение и восстановление загрузок при нестабильной сети. Доработаны проверка источников модов и сообщения об ошибках. Сокращены лишние обращения к серверу."
+    "Исправлено отображение карточек модов на широких экранах и при изменении размера окна. Описания и кнопки остаются доступными."
   ]
 }
