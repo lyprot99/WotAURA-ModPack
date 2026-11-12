@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.6.6",
+  "client_version": "2.6.7",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.6/WotAURA.exe",
-  "sha256": "30BB0CD81E9A3262930678F822AB9BD0A2B4CD15B164B95AD30B1B55D591A375",
-  "size": 187692544,
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.7/WotAURA.exe",
+  "sha256": "2E88471B70D697FE9FE55632E306A895FB10649DD6691D46D35C6359E061C1BA",
+  "size": 187724800,
   "mandatory": true,
   "changelog": [
-    "Исправлено отображение названий и описаний модов на английском языке."
+    "При первом выборе Детайлера включаются все шесть параметров. Добавлены предупреждения о конфликтующих библиотеках и возможность продолжить установку после подтверждения. При повторе используются проверенные загрузки."
   ]
 }
