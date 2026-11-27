@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "client_version": "2.6.11",
+  "client_version": "2.6.12",
   "game_version": "1.46.0.0",
-  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.11/WotAURA.exe",
-  "sha256": "917030C7CDE7AC9C6D2C37E74F3FFABBF604E49EBF6FB7A26FD7796DFB3C75E8",
+  "download_url": "https://github.com/lyprot99/WotAURA-ModPack/releases/download/v2.6.12/WotAURA.exe",
+  "sha256": "E65E9E59A1E7C8B5D4F9283357CAAAA7E17484E1C62F12A3764F4FCCE9C5810A",
   "size": 143297024,
   "mandatory": true,
   "changelog": [
-    "Обновлена проверка активации Premium-модов. Исправлено окно очистки истории"
+    "Улучшение стабильности модпака и модов."
   ]
 }
