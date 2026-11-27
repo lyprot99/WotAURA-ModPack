@@ -1,6 +1,6 @@
 # WotAURA ModPack License and User Agreement
 
-Version dated 28 October 2026
+Version dated 25 November 2026
 
 © LYProt, 2015–2026. Rights to original WotAURA components are reserved.
 
@@ -62,7 +62,7 @@ By clicking the acceptance button in the application, or by starting to use it a
 
 4.9. Evidence of payment, key issuance, activation and technical availability may include subscription status, key issuance and activation times, access periods, API responses and technical incidents. Such records may serve as evidence of performance but do not conclusively establish the absence of defects or prevent the User from presenting their own evidence.
 
-4.10. For individual requests concerning WotAURA and paid access, the User may use the modpack’s Support section or private messages to the official community at https://vk.ru/wotauramodpack. Users who belong to the private WotAURA Premium Telegram group may additionally report technical issues there; the group chat does not replace an individual payment-related request. Receipt is determined by the verifiable time the individual request reaches the relevant channel. Support section limits do not prevent contacting VK or using other statutory methods. Where available, provide a subscription or transaction identifier, date, application version and issue description. The project does not request passwords, complete bank details or unnecessary personal data. Refund requests are directed to Boosty under clause 4.7.
+4.10. For individual requests concerning WotAURA and paid access, the User may use private messages to the official community at https://vk.ru/wotauramodpack or email at wotauramodpack@gmail.com. Users who belong to the private WotAURA Premium Telegram group may additionally report technical issues there; the group chat does not replace an individual payment-related request. Receipt is determined by the verifiable time the individual request reaches the relevant channel. Where available, provide a subscription or transaction identifier, date, application version and issue description. The project does not request passwords, complete bank details or unnecessary personal data. Refund requests are directed to Boosty under clause 4.7.
 
 4.11. Payment disputes may also be handled through Boosty, bank and payment system procedures. Nothing in this Agreement excludes the right to lawfully dispute a payment.
 
@@ -107,9 +107,9 @@ If access cannot be confirmed at game startup because of a network error, server
 
 ## 7 Telegram bot and support
 
-7.1. The Telegram bot may display license and bound device information, issue keys, accept binding reset requests, register giveaway entries and provide prize claiming under the relevant event terms. Individual requests concerning the modpack, payment and access restoration are accepted through the application’s Support section or private messages to the official VK or Telegram community. Members of the private WotAURA Premium Telegram group may additionally report technical issues there. The bot is not intended to receive free-form support messages; the group chat does not replace an individual payment-related request. Refund requests go to Boosty under clause 4.7.
+7.1. The Telegram bot may display license and bound device information, issue keys, accept binding reset requests, register giveaway entries and provide prize claiming under the relevant event terms. Individual requests concerning the modpack, payment and access restoration are accepted through private messages to https://vk.ru/wotauramodpack or email at wotauramodpack@gmail.com. Members of the private WotAURA Premium Telegram group may additionally report technical issues there. The bot is not intended to receive free-form support messages; the group chat does not replace an individual payment-related request. Refund requests go to Boosty under clause 4.7.
 
-7.2. Ticket history, replies and status changes are available in the modpack. Where Telegram linking has been confirmed and delivery is technically possible, notifications or replies may additionally be delivered through Telegram; delivery does not guarantee that a message has been read. Requests and necessary troubleshooting information may be sent to WotAURA administrators through a private technical Telegram group. The project does not request passwords, bank card details or information unnecessary to resolve the issue.
+7.2. Replies are sent through the relevant contact channel: private messages to the official VK community or email. The modpack has no separate ticket section, reply history or status tracking. Members of the private Telegram group may additionally discuss technical issues there. The project does not request passwords, bank card details or information unnecessary to resolve the issue.
 
 7.3. For Premium access issues, provide the payment date and method, plan details, activation result and a description of the issue where possible. Only necessary verification information is requested. The official individual contact outside the application is private messages to https://vk.ru/wotauramodpack, available even if the modpack will not start or connect. Where accessible, the private WotAURA Premium Telegram group is an additional channel for discussing technical issues. Ordinary requests and device-reset requests are reviewed within 14 working days after the necessary information is received, excluding weekends and non-working public holidays. Any mandatory statutory deadline takes precedence.
 
@@ -189,6 +189,6 @@ Subscriptions: https://boosty.to/wotauramodpack
 
 Repository: https://github.com/lyprot99/WotAURA-ModPack
 
-Paid access requests: the modpack’s Support section and private messages to https://vk.ru/wotauramodpack. Where accessible, the private WotAURA Premium Telegram group is an additional channel for technical questions.
+Paid access requests: private messages to https://vk.ru/wotauramodpack or email at wotauramodpack@gmail.com. Where accessible, the private WotAURA Premium Telegram group is an additional channel for technical questions.
 
 LYProt provides paid access within the project. Subscription checkout and payment acceptance take place through Boosty under the selected plan and platform terms.
